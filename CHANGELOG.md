@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-alpha.3 (2019-04-23)
+- Improves home performance by removing firestore js use in favor of projects pages.
+- Adds automated tagging and CHANGELOG update support.
+
 ## 0.1.0-alpha.2 (2019-04-06)
 - Adds automated tagging and CHANGELOG update support.
 - Adds Feedback step. Deploy script tests pass.
