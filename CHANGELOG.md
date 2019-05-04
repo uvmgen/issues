@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.0-alpha.4 (2019-05-01)
+- Disables desktop PWA prompt. Disables UVC remove menu item while loading.
+- Updates UVC driver for mid-sim reset.
+- Updates file grid breakpoints. Adds Partnership section to homepage.
+- Improves home performance by removing firestore js use in favor of projects pages.
+
 ## 0.1.0-alpha.3 (2019-04-23)
 - Improves home performance by removing firestore js use in favor of projects pages.
 - Adds automated tagging and CHANGELOG update support.
