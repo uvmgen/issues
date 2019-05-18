@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2019-05-18)
+- Adds demo video of creating a UVC to the home page.
+
 ## 0.1.0-alpha.4 (2019-05-01)
 - Disables desktop PWA prompt. Disables UVC remove menu item while loading.
 - Updates UVC driver for mid-sim reset.
