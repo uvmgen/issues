@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.0-alpha.6 (2019-07-20)
+- Fixes some errors in structured data.
+- Fixes bug where multiple hasOne documents could be created.
+- Adds capabilities for the UVMGen blog. Adds JSON-LD.
+
 ## 0.1.0-alpha.5 (2019-05-18)
 - Adds demo video of creating a UVC to the home page.
 
