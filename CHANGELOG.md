@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-alpha.7 (2019-07-30)
+- Adds momentum scrolling to home. Fixes bug in file viewer where open file not shown after reload.
+- Fixes bug where protocol roles were recreated on delete.
+
 ## 0.1.0-alpha.6 (2019-07-20)
 - Fixes some errors in structured data.
 - Fixes bug where multiple hasOne documents could be created.
